@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnHello" type="id" />
+    <item name="btnCount" type="id" />
+    <item name="btnAlarm" type="id" />
+    <item name="btnTwoActivity" type="id" />
+    <item name="btnSianida" type="id" />
+</resources>
